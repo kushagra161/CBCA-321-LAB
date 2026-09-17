@@ -33,7 +33,7 @@ The lab was performed using an online Linux terminal environment.
    The `&` symbol was used to run a process in the background.
 
    ```bash
-   sleep 1000 &
+   sleep 500 &
    ```
 
 7. **Using the `bg` Command**
