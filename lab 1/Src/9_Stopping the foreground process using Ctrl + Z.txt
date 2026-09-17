@@ -1,0 +1,1 @@
+Stopping the foreground process using Ctrl + Z
