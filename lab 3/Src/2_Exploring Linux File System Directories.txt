@@ -1,0 +1,5 @@
+ls /bin | head
+ls /dev | head
+ls /proc | head
+ls /home
+ls /usr | head
